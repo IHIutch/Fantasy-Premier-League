@@ -7,7 +7,9 @@ A FPL library that gets all the basic stats for each player, gw-specific data fo
 
 ### Acknowledgement
 
++ BDooley11 for providing top managers script
 + speeder1987 for providing 2018/19 fixtures.csv file
++ ravgeetdhillon for github actions automation for data update
 
 ## FAQ
 
@@ -49,7 +51,25 @@ python teams_scraper.py <team_id>
 
 This will create a new folder called "team_<team_id>_data18-19" with individual files of all the important data
 
-## Notable Usages of this Repository
+# Notable Usages of this Repository
+
++ [How to win at Fantasy Football with Splunk and Machine Learning by Rupert Truman](https://www.splunk.com/en_us/blog/machine-learning/how-to-win-at-fantasy-football-with-splunk-and-machine-learning-part-1.html)
+
++ [2019-20 Winner Joshua Bull's Oxford Maths Public Lecture](https://www.youtube.com/watch?v=LzEuweGrHvc)
+
++ [2019-20 Lottery Analysis by @theFPLKiwi](https://twitter.com/theFPLkiwi/status/1297619700206239746?s=20)
+
++ [Fantasy Nutmeg Website by code247](https://www.fantasynutmeg.com/history)
+
++ [Fantasy Premier League 19/20, a review by Hersh Dhillon](https://medium.com/@2017csb1079/fantasy-premier-league-19-20-a-review-part-1-basics-167e610e229)
+
++ [Visualisasi Data: Fantasy Premier League 19/20 by Erwindra Rusli](https://medium.com/@erwindrarusli/visualisasi-data-fantasy-premier-league-19-20-a80aaf097a21)
+
++ [Machine Learning Model by pratz](https://keytodatascience.com/fpl-machine-learning/)
+
++ [xA vs xG for Attacking Midfielders/Forwards by u/JLane1996](https://www.reddit.com/r/FantasyPL/comments/erfdy1/a_plot_of_xg_vs_xa_for_for_attacking_midsforwards/)
+
++ [Expected Goals vs Actual Goals for Manchester United by u/JLane1996](https://www.reddit.com/r/reddevils/comments/ecbn9j/corrected_plot_of_goals_vs_expected_goals_this/fba8vs3/)
 
 + [Tableau Viz by u/richkelana](https://www.reddit.com/r/tableau/comments/e2j0uq/my_first_tableu_viz_fpl/)
 
